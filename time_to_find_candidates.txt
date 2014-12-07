@@ -1,0 +1,3 @@
+EOF
+lines: 9397024  time: 1m43.8983888s
+Number of candidates: 12172355
